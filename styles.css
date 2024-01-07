@@ -192,14 +192,11 @@ input:cheked + label .description{
   transform: translateY(0) !important;
 }
 .card[for="c1"]{
-  background-image: url()
+  background-image: url(Tribute page.jpg)
 }
 .card[for="c2"]{
-  background-image: url()
+  background-image: url(LandingPage)
 }
 .card[for="c3"]{
-  background-image: url()
-}
-.card[for="c4"]{
-  background-image: url()
+  background-image: url(Survey)
 }
