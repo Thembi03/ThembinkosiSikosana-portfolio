@@ -15,10 +15,10 @@ Welcome to my portfolio repository! This project showcases my skills and project
 ![Portfolio Screenshot](screenshots/portfolio.png)
 
 ## Live Demo
-Check out the live demo [here](https://thembi03.github.io/Portfolio).
+Check out the live demo [here](https://thembi03.github.io/ThembinkosiSikosana-portfolio).
 
 ## How to Run Locally
-1. Clone the repository: `git clone https://github.com/johndoe/Portfolio.git`
+1. Clone the repository: `git clone https://github.com/thembi03/ThembinkosiSikosana-portfolio.git`
 2. Open `index.html` in a web browser.
 
 ## Contact Information
